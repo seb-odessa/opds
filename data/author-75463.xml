@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/terms/"
+    xmlns:os="http://a9.com/-/spec/opensearch/1.1/"
+    xmlns:opds="http://opds-spec.org/2010/catalog">
+    <id>tag:author:75463</id>
+    <title>Книги автора Эган Кейт</title>
+    <updated>2022-10-01T10:53:11+02:00</updated>
+    <icon>/favicon.ico</icon>
+    <link href="/opds-opensearch.xml" rel="search" type="application/opensearchdescription+xml" />
+    <link href="/opds/search?searchTerm={searchTerms}" rel="search" type="application/atom+xml" />
+    <link href="/opds" rel="start" type="application/atom+xml;profile=opds-catalog" />
+    <entry>
+        <updated>2022-10-01T10:53:11+02:00</updated>
+        <id>tag:author:75463:sequences</id>
+        <title>Книги по сериям</title>
+        <link href="/opds/authorsequences/75463" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T10:53:11+02:00</updated>
+        <id>tag:author:75463:sequenceless</id>
+        <title>Книги вне серий</title>
+        <link href="/opds/author/75463/authorsequenceless" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T10:53:11+02:00</updated>
+        <id>tag:author:75463:alphabet</id>
+        <title>Книги по алфавиту</title>
+        <link href="/opds/author/75463/alphabet" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T10:53:11+02:00</updated>
+        <id>tag:author:75463:time</id>
+        <title>Книги по дате поступления</title>
+        <link href="/opds/author/75463/time" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+</feed>

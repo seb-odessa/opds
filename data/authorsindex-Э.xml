@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/terms/"
+    xmlns:os="http://a9.com/-/spec/opensearch/1.1/"
+    xmlns:opds="http://opds-spec.org/2010/catalog">
+    <id>tag:root:authors:Э</id>
+    <title>Книги по авторам</title>
+    <updated>2022-10-01T06:58:02+02:00</updated>
+    <icon>/favicon.ico</icon>
+    <link href="/opds-opensearch.xml" rel="search" type="application/opensearchdescription+xml" />
+    <link href="/opds/search?searchTerm={searchTerms}" rel="search" type="application/atom+xml" />
+    <link href="/opds" rel="start" type="application/atom+xml;profile=opds-catalog" />
+    <entry>
+        <updated>2022-10-01T06:58:03+02:00</updated>
+        <id>tag:authors:Эб</id>
+        <title>Эб</title>
+        <content type="text">50 авторов на &#039;Эб&#039;</content>
+        <link href="/opds/authors/%D0%AD%D0%B1" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T06:58:03+02:00</updated>
+        <id>tag:authors:Эв</id>
+        <title>Эв</title>
+        <content type="text">89 авторов на &#039;Эв&#039;</content>
+        <link href="/opds/authors/%D0%AD%D0%B2" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T06:58:03+02:00</updated>
+        <id>tag:authors:Эг</id>
+        <title>Эг</title>
+        <content type="text">37 авторов на &#039;Эг&#039;</content>
+        <link href="/opds/authors/%D0%AD%D0%B3" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T06:58:03+02:00</updated>
+        <id>tag:authors:Эд</id>
+        <title>Эд</title>
+        <content type="text">117 авторов на &#039;Эд&#039;</content>
+        <link href="/opds/authorsindex/%D0%AD%D0%B4" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T06:58:03+02:00</updated>
+        <id>tag:authors:Эж</id>
+        <title>Эж</title>
+        <content type="text">1 автор на &#039;Эж&#039;</content>
+        <link href="/opds/authors/%D0%AD%D0%B6" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T06:58:03+02:00</updated>
+        <id>tag:authors:Эз</id>
+        <title>Эз</title>
+        <content type="text">9 авторов на &#039;Эз&#039;</content>
+        <link href="/opds/authors/%D0%AD%D0%B7" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T06:58:03+02:00</updated>
+        <id>tag:authors:Эи</id>
+        <title>Эи</title>
+        <content type="text">2 автора на &#039;Эи&#039;</content>
+        <link href="/opds/authors/%D0%AD%D0%B8" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T06:58:03+02:00</updated>
+        <id>tag:authors:Эй</id>
+        <title>Эй</title>
+        <content type="text">136 авторов на &#039;Эй&#039;</content>
+        <link href="/opds/authorsindex/%D0%AD%D0%B9" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T06:58:03+02:00</updated>
+        <id>tag:authors:Эк</id>
+        <title>Эк</title>
+        <content type="text">60 авторов на &#039;Эк&#039;</content>
+        <link href="/opds/authors/%D0%AD%D0%BA" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T06:58:03+02:00</updated>
+        <id>tag:authors:Эл</id>
+        <title>Эл</title>
+        <content type="text">286 авторов на &#039;Эл&#039;</content>
+        <link href="/opds/authorsindex/%D0%AD%D0%BB" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T06:58:03+02:00</updated>
+        <id>tag:authors:Эм</id>
+        <title>Эм</title>
+        <content type="text">83 автора на &#039;Эм&#039;</content>
+        <link href="/opds/authors/%D0%AD%D0%BC" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T06:58:03+02:00</updated>
+        <id>tag:authors:Эн</id>
+        <title>Эн</title>
+        <content type="text">182 автора на &#039;Эн&#039;</content>
+        <link href="/opds/authorsindex/%D0%AD%D0%BD" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T06:58:03+02:00</updated>
+        <id>tag:authors:Эо</id>
+        <title>Эо</title>
+        <content type="text">1 автор на &#039;Эо&#039;</content>
+        <link href="/opds/authors/%D0%AD%D0%BE" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T06:58:03+02:00</updated>
+        <id>tag:authors:Эп</id>
+        <title>Эп</title>
+        <content type="text">38 авторов на &#039;Эп&#039;</content>
+        <link href="/opds/authors/%D0%AD%D0%BF" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T06:58:03+02:00</updated>
+        <id>tag:authors:Эр</id>
+        <title>Эр</title>
+        <content type="text">208 авторов на &#039;Эр&#039;</content>
+        <link href="/opds/authorsindex/%D0%AD%D1%80" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T06:58:03+02:00</updated>
+        <id>tag:authors:Эс</id>
+        <title>Эс</title>
+        <content type="text">106 авторов на &#039;Эс&#039;</content>
+        <link href="/opds/authorsindex/%D0%AD%D1%81" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T06:58:03+02:00</updated>
+        <id>tag:authors:Эт</id>
+        <title>Эт</title>
+        <content type="text">54 автора на &#039;Эт&#039;</content>
+        <link href="/opds/authors/%D0%AD%D1%82" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T06:58:03+02:00</updated>
+        <id>tag:authors:Эу</id>
+        <title>Эу</title>
+        <content type="text">1 автор на &#039;Эу&#039;</content>
+        <link href="/opds/authors/%D0%AD%D1%83" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T06:58:03+02:00</updated>
+        <id>tag:authors:Эф</id>
+        <title>Эф</title>
+        <content type="text">27 авторов на &#039;Эф&#039;</content>
+        <link href="/opds/authors/%D0%AD%D1%84" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T06:58:03+02:00</updated>
+        <id>tag:authors:Эх</id>
+        <title>Эх</title>
+        <content type="text">4 автора на &#039;Эх&#039;</content>
+        <link href="/opds/authors/%D0%AD%D1%85" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T06:58:03+02:00</updated>
+        <id>tag:authors:Эч</id>
+        <title>Эч</title>
+        <content type="text">3 автора на &#039;Эч&#039;</content>
+        <link href="/opds/authors/%D0%AD%D1%87" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T06:58:03+02:00</updated>
+        <id>tag:authors:Эш</id>
+        <title>Эш</title>
+        <content type="text">61 автор на &#039;Эш&#039;</content>
+        <link href="/opds/authors/%D0%AD%D1%88" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T06:58:03+02:00</updated>
+        <id>tag:authors:Ээ</id>
+        <title>Ээ</title>
+        <content type="text">1 автор на &#039;Ээ&#039;</content>
+        <link href="/opds/authors/%D0%AD%D1%8D" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T06:58:03+02:00</updated>
+        <id>tag:authors:Эя</id>
+        <title>Эя</title>
+        <content type="text">2 автора на &#039;Эя&#039;</content>
+        <link href="/opds/authors/%D0%AD%D1%8F" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T06:58:03+02:00</updated>
+        <id>tag:authors:Э.</id>
+        <title>Э.</title>
+        <content type="text">1 автор на &#039;Э.&#039;</content>
+        <link href="/opds/authors/%D0%AD." type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T06:58:03+02:00</updated>
+        <id>tag:authors:Эr</id>
+        <title>Эr</title>
+        <content type="text">1 автор на &#039;Эr&#039;</content>
+        <link href="/opds/authors/%D0%ADr" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+</feed>

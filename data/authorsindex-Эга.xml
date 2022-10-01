@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/terms/"
+    xmlns:os="http://a9.com/-/spec/opensearch/1.1/"
+    xmlns:opds="http://opds-spec.org/2010/catalog">
+    <id>tag:root:authors:Эга</id>
+    <title>Книги по авторам</title>
+    <updated>2022-10-01T11:04:50+02:00</updated>
+    <icon>/favicon.ico</icon>
+    <link href="/opds-opensearch.xml" rel="search" type="application/opensearchdescription+xml" />
+    <link href="/opds/search?searchTerm={searchTerms}" rel="search" type="application/atom+xml" />
+    <link href="/opds" rel="start" type="application/atom+xml;profile=opds-catalog" />
+    <entry>
+        <updated>2022-10-01T11:04:51+02:00</updated>
+        <id>tag:authors:Эгам</id>
+        <title>Эгам</title>
+        <content type="text">2 автора на &#039;Эгам&#039;</content>
+        <link href="/opds/authors/%D0%AD%D0%B3%D0%B0%D0%BC" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T11:04:51+02:00</updated>
+        <id>tag:authors:Эган</id>
+        <title>Эган</title>
+        <content type="text">2 автора на &#039;Эган&#039;</content>
+        <link href="/opds/authors/%D0%AD%D0%B3%D0%B0%D0%BD" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T11:04:51+02:00</updated>
+        <id>tag:authors:Эгар</id>
+        <title>Эгар</title>
+        <content type="text">1 автор на &#039;Эгар&#039;</content>
+        <link href="/opds/authors/%D0%AD%D0%B3%D0%B0%D1%80" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+</feed>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/terms/"
+    xmlns:os="http://a9.com/-/spec/opensearch/1.1/"
+    xmlns:opds="http://opds-spec.org/2010/catalog">
+    <id>tag:root:authors:Эга</id>
+    <title>Книги по авторам</title>
+    <updated>2022-10-01T11:08:55+02:00</updated>
+    <icon>/favicon.ico</icon>
+    <link href="/opds-opensearch.xml" rel="search" type="application/opensearchdescription+xml" />
+    <link href="/opds/search?searchTerm={searchTerms}" rel="search" type="application/atom+xml" />
+    <link href="/opds" rel="start" type="application/atom+xml;profile=opds-catalog" />
+    <entry>
+        <updated>2022-10-01T11:08:55+02:00</updated>
+        <id>tag:author:216428</id>
+        <title>Эгамбердиев Абдисамат Эгамбердиевич</title>
+        <content type="text">1 книга</content>
+        <link href="/opds/author/216428" type="application/atom+xml;profile=opds-catalog" />
+        <link href="/opds/authorsequences/216428" rel="http://www.feedbooks.com/opds/facet" type="application/atom+xml;profile=opds-catalog" title="Книги автора по сериям" />
+        <link href="/opds/authorsequenceless/216428" rel="http://www.feedbooks.com/opds/facet" type="application/atom+xml;profile=opds-catalog" title="Книги автора вне серий" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T11:08:55+02:00</updated>
+        <id>tag:author:239003</id>
+        <title>Эгамбердиев Манап Эгамбердиевич</title>
+        <content type="text">1 книга</content>
+        <link href="/opds/author/239003" type="application/atom+xml;profile=opds-catalog" />
+        <link href="/opds/authorsequences/239003" rel="http://www.feedbooks.com/opds/facet" type="application/atom+xml;profile=opds-catalog" title="Книги автора по сериям" />
+        <link href="/opds/authorsequenceless/239003" rel="http://www.feedbooks.com/opds/facet" type="application/atom+xml;profile=opds-catalog" title="Книги автора вне серий" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T11:08:55+02:00</updated>
+        <id>tag:author:75463</id>
+        <title>Эган Кейт</title>
+        <content type="text">5 книг</content>
+        <link href="/opds/author/75463" type="application/atom+xml;profile=opds-catalog" />
+        <link href="/opds/authorsequences/75463" rel="http://www.feedbooks.com/opds/facet" type="application/atom+xml;profile=opds-catalog" title="Книги автора по сериям" />
+        <link href="/opds/authorsequenceless/75463" rel="http://www.feedbooks.com/opds/facet" type="application/atom+xml;profile=opds-catalog" title="Книги автора вне серий" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T11:08:55+02:00</updated>
+        <id>tag:author:243591</id>
+        <title>Эганян Александр Константинович</title>
+        <content type="text">2 книги</content>
+        <link href="/opds/author/243591" type="application/atom+xml;profile=opds-catalog" />
+        <link href="/opds/authorsequences/243591" rel="http://www.feedbooks.com/opds/facet" type="application/atom+xml;profile=opds-catalog" title="Книги автора по сериям" />
+        <link href="/opds/authorsequenceless/243591" rel="http://www.feedbooks.com/opds/facet" type="application/atom+xml;profile=opds-catalog" title="Книги автора вне серий" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T11:08:55+02:00</updated>
+        <id>tag:author:62676</id>
+        <title>Эгарт Марк Моисеевич</title>
+        <content type="text">7 книг</content>
+        <link href="/opds/author/62676" type="application/atom+xml;profile=opds-catalog" />
+        <link href="/ia/5/95805/egart_mark_moiseevich.jpg" rel="http://opds-spec.org/image" type="image/jpeg" />
+        <link href="/ia/5/95805/egart_mark_moiseevich.jpg" rel="x-stanza-cover-image" type="image/jpeg" />
+        <link href="/ia/5/95805/egart_mark_moiseevich.jpg" rel="http://opds-spec.org/image/thumbnail" type="image/jpeg" />
+        <link href="/ia/5/95805/egart_mark_moiseevich.jpg" rel="x-stanza-cover-image-thumbnail" type="image/jpeg" />
+        <link href="/opds/authorsequences/62676" rel="http://www.feedbooks.com/opds/facet" type="application/atom+xml;profile=opds-catalog" title="Книги автора по сериям" />
+        <link href="/opds/authorsequenceless/62676" rel="http://www.feedbooks.com/opds/facet" type="application/atom+xml;profile=opds-catalog" title="Книги автора вне серий" />
+    </entry>
+</feed>

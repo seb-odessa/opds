@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:os="http://a9.com/-/spec/opensearch/1.1/"
+  xmlns:opds="http://opds-spec.org/2010/catalog">
+  <id>tag:author:75463:sequence:69210:book</id>
+  <title>Книги в серии Disney. Первые приключения героев любимых мультфильмов</title>
+  <updated>2022-10-01T11:38:59+02:00</updated>
+  <icon>/favicon.ico</icon>
+  <link href="/opds-opensearch.xml" rel="search" type="application/opensearchdescription+xml" />
+  <link href="/opds/search?searchTerm={searchTerms}" rel="search" type="application/atom+xml" />
+  <link href="/opds" rel="start" type="application/atom+xml;profile=opds-catalog" />
+  <entry>
+    <updated>2022-10-01T11:38:59+02:00</updated>
+    <title>Ледяное приключение Эльзы</title>
+    <author>
+      <name>Эган Кейт</name>
+      <uri>/a/75463</uri>
+    </author>
+    <link href="/opds/author/75463" rel="related" type="application/atom+xml" title="Все книги автора Эган Кейт" />
+    <category term="Фэнтези" label="Фэнтези" />
+    <dc:language>ru</dc:language>
+    <dc:format>fb2+zip</dc:format>
+    <dc:issued>2021</dc:issued>
+    <link href="/opds/sequencebooks/69209" rel="related" type="application/atom+xml" title="Все книги серии &quot;Disney. Холодное сердце&quot;" />
+    <link href="/opds/sequencebooks/61147" rel="related" type="application/atom+xml" title="Все книги серии &quot;Холодное сердце (Disney)&quot;" />
+    <content type="text/html">
+    &lt;p class=&quot;book&quot;&gt;Маленькие принцессы Эльза и Анна приезжают вместе с родителями в летнюю резиденцию и с нетерпением предвкушают беззаботный семейный отдых. Однако для Эльзы всё оказывается совсем не так – надоевшие в замке уроки продолжаются и здесь, а из-за её магии, которую она надеялась изучить без посторонних глаз, девочка попадает в очень неприятную ситуацию. Эльза уже готова повесить нос, но Анна этого не позволит – она всегда сумеет развеселить сестру и втянуть её в самые невероятные приключения!&lt;/p&gt;
+   &lt;br/&gt;Перевод: Бушаева Елена Александровна&lt;br/&gt;Год издания: 2021&lt;br/&gt;Формат: fb2&lt;br/&gt;Язык: ru&lt;br/&gt;Размер: 1983 Kb&lt;br/&gt;Скачиваний: 371&lt;br/&gt;Серия: Disney. Холодное сердце&lt;br/&gt;Серия: Холодное сердце (Disney)&lt;br/&gt;</content>
+    <link href="/i/66/616666/_001.jpg" rel="http://opds-spec.org/image" type="image/jpeg" />
+    <link href="/i/66/616666/_001.jpg" rel="x-stanza-cover-image" type="image/jpeg" />
+    <link href="/i/66/616666/_001.jpg" rel="http://opds-spec.org/thumbnail" type="image/jpeg" />
+    <link href="/i/66/616666/_001.jpg" rel="x-stanza-cover-image-thumbnail" type="image/jpeg" />
+    <link href="/b/616666/fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2+zip" />
+    <link href="/b/616666/html" rel="http://opds-spec.org/acquisition/open-access" type="application/html+zip" />
+    <link href="/b/616666/txt" rel="http://opds-spec.org/acquisition/open-access" type="application/txt+zip" />
+    <link href="/b/616666/rtf" rel="http://opds-spec.org/acquisition/open-access" type="application/rtf+zip" />
+    <link href="/b/616666/epub" rel="http://opds-spec.org/acquisition/open-access" type="application/epub+zip" />
+    <link href="/b/616666/mobi" rel="http://opds-spec.org/acquisition/open-access" type="application/x-mobipocket-ebook" />
+    <link href="/b/616666" rel="alternate" type="text/html" title="Книга на сайте" />
+    <id>tag:book:f84de4d27ff994fd2f51764bf2d166d3</id>
+  </entry>
+  <entry>
+    <updated>2022-10-01T11:38:59+02:00</updated>
+    <title>Анна ищет друга</title>
+    <author>
+      <name>Эган Кейт</name>
+      <uri>/a/75463</uri>
+    </author>
+    <link href="/opds/author/75463" rel="related" type="application/atom+xml" title="Все книги автора Эган Кейт" />
+    <category term="Фэнтези" label="Фэнтези" />
+    <dc:language>ru</dc:language>
+    <dc:format>fb2+zip</dc:format>
+    <dc:issued>2020</dc:issued>
+    <link href="/opds/sequencebooks/69209" rel="related" type="application/atom+xml" title="Все книги серии &quot;Disney. Холодное сердце&quot;" />
+    <link href="/opds/sequencebooks/61147" rel="related" type="application/atom+xml" title="Все книги серии &quot;Холодное сердце (Disney)&quot;" />
+    <content type="text/html">
+    &lt;p class=&quot;book&quot;&gt;Восьмилетняя принцесса Анна живёт в замке Эренделла с родителями и сестрой, которая больше с ней не общается. Когда король с королевой уезжают по делам на несколько дней, одиночество и скука совсем одолевают Анну. К счастью, ей повезло познакомиться с королевским посыльным, который подкинул ей отличную идею для развлечения – написать письмо! И пусть подружку для переписки пришлось выдумать, это ничего – всё равно отправлять почту оказалось очень интересно. Каково же было удивление Анны, когда на её письма начали приходить ответы! Кто же пишет ей эти послания?&lt;/p&gt;
+   &lt;br/&gt;Перевод: Бушаева Елена Александровна&lt;br/&gt;Год издания: 2020&lt;br/&gt;Формат: fb2&lt;br/&gt;Язык: ru&lt;br/&gt;Размер: 2330 Kb&lt;br/&gt;Скачиваний: 326&lt;br/&gt;Серия: Disney. Холодное сердце&lt;br/&gt;Серия: Холодное сердце (Disney)&lt;br/&gt;</content>
+    <link href="/i/65/616665/_001.jpg" rel="http://opds-spec.org/image" type="image/jpeg" />
+    <link href="/i/65/616665/_001.jpg" rel="x-stanza-cover-image" type="image/jpeg" />
+    <link href="/i/65/616665/_001.jpg" rel="http://opds-spec.org/thumbnail" type="image/jpeg" />
+    <link href="/i/65/616665/_001.jpg" rel="x-stanza-cover-image-thumbnail" type="image/jpeg" />
+    <link href="/b/616665/fb2" rel="http://opds-spec.org/acquisition/open-access" type="application/fb2+zip" />
+    <link href="/b/616665/html" rel="http://opds-spec.org/acquisition/open-access" type="application/html+zip" />
+    <link href="/b/616665/txt" rel="http://opds-spec.org/acquisition/open-access" type="application/txt+zip" />
+    <link href="/b/616665/rtf" rel="http://opds-spec.org/acquisition/open-access" type="application/rtf+zip" />
+    <link href="/b/616665/epub" rel="http://opds-spec.org/acquisition/open-access" type="application/epub+zip" />
+    <link href="/b/616665/mobi" rel="http://opds-spec.org/acquisition/open-access" type="application/x-mobipocket-ebook" />
+    <link href="/b/616665" rel="alternate" type="text/html" title="Книга на сайте" />
+    <id>tag:book:4c60bbeea60d60cce95ec9942d0e3692</id>
+  </entry>
+</feed>

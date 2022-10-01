@@ -19,6 +19,7 @@ struct Feed {
     icon: StringTag,
 
     link: Vec<Link>,
+    entry: Vec<Entry>,
 }
 impl Feed {
     pub fn new() -> Self {
@@ -27,12 +28,12 @@ impl Feed {
             xmlns_dc: String::from("http://purl.org/dc/terms/"),
             xmlns_os: String::from("http://a9.com/-/spec/opensearch/1.1/"),
             xmlns_opds: String::from("http://opds-spec.org/2010/catalog"),
-        
+
             id: StringTag(String::from("tag:root")),
             title: StringTag(String::from("Flibusta catalog")),
             updated: StringTag(String::from("2022-09-28T10:33:31+02:00")),
             icon: StringTag(String::from("/favicon.ico")),
-     
+
             link: vec![
                 Link{
                     href: String::from("/opds-opensearch.xml"),
@@ -55,7 +56,22 @@ impl Feed {
                     href_type: String::from("application/atom+xml;profile=opds-catalog"),
                 },
             ],
-            
+            entry: vec![
+                Entry{
+                    id: StringTag(String::from("tag:root::new")),
+                    title: StringTag(String::from("Новинки")),
+                    updated: StringTag(String::from("2022-09-28T10:33:31+02:00")),
+                    content: Content{
+                        content_type: String::from("text"),
+                        content_data: String::from("Новые поступления за неделю"),
+                    },
+                    link: Link{
+                        href: String::from("/opds/new"),
+                        href_rel: String::from("http://opds-spec.org/sort/new"),
+                        href_type: String::from("application/atom+xml;profile=opds-catalog"),
+                    },
+                },
+            ],
         }
     }
 }
@@ -74,7 +90,26 @@ struct Link {
     href_type: String,
 }
 
-    
+
+#[derive(Deserialize, Serialize)]
+struct Entry {
+    id: StringTag,
+    title: StringTag,
+    updated: StringTag,
+    content: Content,
+    link: Link,
+}
+
+
+#[derive(Deserialize, Serialize)]
+struct Content {
+    #[serde(rename = "type")]
+    content_type: String,
+    #[serde(rename = "$value")]
+    content_data: String
+}
+
+
 fn main() {
     let feed = Feed::new();
 

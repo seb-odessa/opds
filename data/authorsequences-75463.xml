@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <feed xmlns="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/terms/" xmlns:os="http://a9.com/-/spec/opensearch/1.1/" xmlns:opds="http://opds-spec.org/2010/catalog"> <id>tag:author:75463:sequences:</id>
+ <title>Книжные серии Эган Кейт</title>
+ <updated>2022-10-01T11:12:27+02:00</updated>
+ <icon>/favicon.ico</icon>
+ <link href="/opds-opensearch.xml" rel="search" type="application/opensearchdescription+xml" />
+ <link href="/opds/search?searchTerm={searchTerms}" rel="search" type="application/atom+xml" />
+ <link href="/opds" rel="start" type="application/atom+xml;profile=opds-catalog" />
+ <entry> <updated>2022-10-01T11:12:27+02:00</updated>
+ <id>tag:author:75463:sequence:69210</id>
+ <title>Disney. Первые приключения героев любимых мультфильмов</title>
+ <content type="text">2 книги в серии</content>
+ <link href="/opds/authorsequence/75463/69210" type="application/atom+xml;profile=opds-catalog" />
+</entry>
+ <entry> <updated>2022-10-01T11:12:27+02:00</updated>
+ <id>tag:author:75463:sequence:69209</id>
+ <title>Disney. Холодное сердце</title>
+ <content type="text">2 книги в серии</content>
+ <link href="/opds/authorsequence/75463/69209" type="application/atom+xml;profile=opds-catalog" />
+</entry>
+ <entry> <updated>2022-10-01T11:12:27+02:00</updated>
+ <id>tag:author:75463:sequence:16593</id>
+ <title>Дружба творит чудеса</title>
+ <content type="text">3 книги в серии</content>
+ <link href="/opds/authorsequence/75463/16593" type="application/atom+xml;profile=opds-catalog" />
+</entry>
+ <entry> <updated>2022-10-01T11:12:27+02:00</updated>
+ <id>tag:author:75463:sequence:61147</id>
+ <title>Холодное сердце (Disney)</title>
+ <content type="text">2 книги в серии</content>
+ <link href="/opds/authorsequence/75463/61147" type="application/atom+xml;profile=opds-catalog" />
+</entry>
+</feed>

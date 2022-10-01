@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xmlns:dc="http://purl.org/dc/terms/"
+    xmlns:os="http://a9.com/-/spec/opensearch/1.1/"
+    xmlns:opds="http://opds-spec.org/2010/catalog">
+    <id>tag:root:authors:Эг</id>
+    <title>Книги по авторам</title>
+    <updated>2022-10-01T11:01:00+02:00</updated>
+    <icon>/favicon.ico</icon>
+    <link href="/opds-opensearch.xml" rel="search" type="application/opensearchdescription+xml" />
+    <link href="/opds/search?searchTerm={searchTerms}" rel="search" type="application/atom+xml" />
+    <link href="/opds" rel="start" type="application/atom+xml;profile=opds-catalog" />
+    <entry>
+        <updated>2022-10-01T11:01:02+02:00</updated>
+        <id>tag:authors:Эга</id>
+        <title>Эга</title>
+        <content type="text">5 авторов на &#039;Эга&#039;</content>
+        <link href="/opds/authors/%D0%AD%D0%B3%D0%B0" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T11:01:02+02:00</updated>
+        <id>tag:authors:Эгг</id>
+        <title>Эгг</title>
+        <content type="text">10 авторов на &#039;Эгг&#039;</content>
+        <link href="/opds/authors/%D0%AD%D0%B3%D0%B3" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T11:01:02+02:00</updated>
+        <id>tag:authors:Эге</id>
+        <title>Эге</title>
+        <content type="text">8 авторов на &#039;Эге&#039;</content>
+        <link href="/opds/authors/%D0%AD%D0%B3%D0%B5" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T11:01:02+02:00</updated>
+        <id>tag:authors:Эги</id>
+        <title>Эги</title>
+        <content type="text">1 автор на &#039;Эги&#039;</content>
+        <link href="/opds/authors/%D0%AD%D0%B3%D0%B8" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T11:01:02+02:00</updated>
+        <id>tag:authors:Эгл</id>
+        <title>Эгл</title>
+        <content type="text">6 авторов на &#039;Эгл&#039;</content>
+        <link href="/opds/authors/%D0%AD%D0%B3%D0%BB" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T11:01:02+02:00</updated>
+        <id>tag:authors:Эгм</id>
+        <title>Эгм</title>
+        <content type="text">1 автор на &#039;Эгм&#039;</content>
+        <link href="/opds/authors/%D0%AD%D0%B3%D0%BC" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T11:01:02+02:00</updated>
+        <id>tag:authors:Эгн</id>
+        <title>Эгн</title>
+        <content type="text">1 автор на &#039;Эгн&#039;</content>
+        <link href="/opds/authors/%D0%AD%D0%B3%D0%BD" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T11:01:02+02:00</updated>
+        <id>tag:authors:Эго</id>
+        <title>Эго</title>
+        <content type="text">1 автор на &#039;Эго&#039;</content>
+        <link href="/opds/authors/%D0%AD%D0%B3%D0%BE" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T11:01:02+02:00</updated>
+        <id>tag:authors:Эгп</id>
+        <title>Эгп</title>
+        <content type="text">1 автор на &#039;Эгп&#039;</content>
+        <link href="/opds/authors/%D0%AD%D0%B3%D0%BF" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T11:01:02+02:00</updated>
+        <id>tag:authors:Эгр</id>
+        <title>Эгр</title>
+        <content type="text">2 автора на &#039;Эгр&#039;</content>
+        <link href="/opds/authors/%D0%AD%D0%B3%D1%80" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+    <entry>
+        <updated>2022-10-01T11:01:02+02:00</updated>
+        <id>tag:authors:Эгу</id>
+        <title>Эгу</title>
+        <content type="text">1 автор на &#039;Эгу&#039;</content>
+        <link href="/opds/authors/%D0%AD%D0%B3%D1%83" type="application/atom+xml;profile=opds-catalog" />
+    </entry>
+</feed>
